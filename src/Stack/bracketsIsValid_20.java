@@ -7,7 +7,7 @@
 左括号必须以正确的顺序闭合。
 每个右括号都有一个对应的相同类型的左括号。 */
 
-package String;
+package Stack;
 import java.util.Stack;
 
 public class bracketsIsValid_20 {
