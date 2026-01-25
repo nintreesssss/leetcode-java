@@ -1,13 +1,6 @@
 //LeetCode 7:翻转整数 
-/*给定一个 32 位有符号整数，将整数中的数字进行反转。
-  如果反转后整数溢出返回0。
-示例 1:
-输入: 123
-输出: 321
+//https://leetcode.cn/problems/reverse-integer/description/
 
-示例 2:
-输入: -123
-输出: -321 */
 package String;
 public class ReverseInteger_7 {
     public static void main(String[] args) {

@@ -1,20 +1,6 @@
 //LeetCode 8:字符串转换整数 
-/*实现一个parseInt方法，将字符串转换成整数
-示例 1（正数）:
-输入: "42"
-输出: 42
+//https://leetcode.cn/problems/string-to-integer-atoi/
 
-示例 2（带空格的负数）:
-输入: "   -42"
-输出: -42
-
-示例 3（带非数字的字符）:
-输入: "4193 with words"
-输出: 4193
-
-示例 4（超出 int 范围）:
-输入: "91283472332"
-输出: 2147483647*/
 package String;
 public class StringToInteger_8 {
     public static void main(String[] args) {

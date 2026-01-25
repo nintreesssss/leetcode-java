@@ -1,4 +1,5 @@
 //LeetCode 2073:买票需要的时间
+//https://leetcode.cn/problems/time-needed-to-buy-tickets/
 
 package Queue;
 import java.util.LinkedList;
