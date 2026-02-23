@@ -22,3 +22,5 @@ public class SubProductLessThanK_713 {
         return res;
     }
 }
+
+//滑动窗口 维护乘积小于k的窗口
