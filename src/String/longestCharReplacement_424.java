@@ -21,3 +21,5 @@ public class longestCharReplacement_424 {
         return right - left;
     }
 }
+
+//滑动窗口 维护一个窗口，使得窗口内去除出现次数最高的字母以外的字母的个数不超过k
