@@ -1,8 +1,8 @@
-# LeetCode Java算法练习
+# LeetCode算法练习
 
 这个仓库会包含每日LeetCode练习，旨在提升算法思维.
 
-**主要使用语言**：Java
+**主要使用语言**：Java，C++
 
 ## 文件结构
 
